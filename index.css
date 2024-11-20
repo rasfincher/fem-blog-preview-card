@@ -158,3 +158,9 @@ section {
 .text-muted {
   color: var(--clr-gray-500);
 }
+
+@media (min-width: 375px) {
+  .card {
+    width: 327px;
+  }
+}
